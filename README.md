@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rresendizlazaro
+- 👋 Hi, I’m Raul Resendiz
 - 👀 I’m interested in FullStack development
 - 🌱 I’m currently learning React native and PHP
 - 💞️ I’m looking to collaborate on FullStack projects
